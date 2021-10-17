@@ -96,7 +96,7 @@ width: 200px;
 
 }
 
-.me:hover {
+img:hover {
   transform: scaleX(-1);
 }
 
