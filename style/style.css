@@ -80,6 +80,8 @@ footer{
      bottom: 0;
 }
 
+
+
 /*information*/
 .info,.me{
 display: flex;
@@ -158,13 +160,6 @@ border: 1px solid purple;
     }
 }
 
-
-
-
-
-
-
-
 /*img*/
 
 div{
@@ -183,14 +178,12 @@ figure{
   flex-basis: 100%;
 }
 
-/* tablet breakpoint */
 @media (min-width: 500px){
   figure{
     flex-basis: 50%;
   }
 }
 
-/* desktop breakpoint */
 @media (min-width: 850px) {
   figure{
     flex-basis: 33%;
